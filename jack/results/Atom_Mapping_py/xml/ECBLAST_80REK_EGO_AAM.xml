@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:1]=[P:2]([O-:3])([O:4][CH2:5][C@H:6]1[O:7][C@@H:8]([n:9]2[cH:10][n:11][c:12]3[c:13]([n:14][cH:15][n:16][c:17]23)[NH2:18])[C@H:19]([OH:20])[C@@H:21]1[OH:22])[O:23][P:24](=[O:25])([OH:26])[O:27][CH2:28][C@H:29]4[O:30][C@@H:31]([n+:32]5[cH:33][cH:34][cH:35][c:36]([cH:37]5)[C:38]([O-:39])=[NH:40])[C@H:41]([OH:42])[C@@H:43]4[OH:44].[H:45][H:46]&gt;&gt;[O:1]=[P:2]([O-:3])([O:4][CH2:5][C@H:6]1[O:7][C@@H:8]([N:9]2[CH:13]=[CH:12][CH2:17][C:36](=[CH:10]2)[C:38](=[NH:40])[O-:39])[C@H:19]([OH:20])[C@@H:21]1[OH:22])[O:23][P:24](=[O:25])([OH:26])[O:27][CH2:28][C@H:29]3[O:30][C@@H:31]([n:32]4[c:33]5[n:16][cH:15][n:14][c:35]([NH2:11])[c:34]5[n:18][cH:37]4)[C@H:41]([OH:42])[C@@H:43]3[OH:44]</AAM>
+      <RANK_REACTANT>{}</RANK_REACTANT>
+      <RANK_PRODUCT>{}</RANK_PRODUCT>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

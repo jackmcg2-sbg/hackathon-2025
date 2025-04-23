@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[OH:1][c:2]1[n:3][cH:4][n:5][c:6]2[c:7]1[n:8][cH:9][n:10]2[C@@H:11]3[O:12][C@H:13]([CH2:14][OH:15])[C@@H:16]([OH:17])[CH2:18]3.[n:19]1[cH:20][n:21][c:22]-2[c:23]([n:24][cH:25][nH:26][c:27]12)[NH2:28]&gt;&gt;[C@H:11]1([O:12][C@H:13]([CH2:14][OH:15])[C@H:16]([CH2:18]1)[OH:17])[n:19]2[c:27]3[c:22]([c:23]([n:24][cH:25][n:26]3)[NH2:28])[n:21][cH:20]2.[OH:1][c:2]1[n:3][cH:4][n:5][c:6]2[c:7]1[n:8][cH:9][nH:10]2</AAM>
+      <RANK_REACTANT>{}</RANK_REACTANT>
+      <RANK_PRODUCT>{}</RANK_PRODUCT>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

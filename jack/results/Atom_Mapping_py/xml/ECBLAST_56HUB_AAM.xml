@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:1]=[CH:2]/[CH:3]=[C:4](/[CH:5]=[CH:6]/[CH:7]=[C:8](/[CH:9]=[CH:10]/[C:11]1=[C:12]([CH3:13])[CH2:14][CH2:15][CH2:16][C:17]1([CH3:18])[CH3:19])\[CH3:20])\[CH3:21]&gt;&gt;[O:1]=[CH:2]\[CH:3]=[C:4](\[CH:5]=[CH:6]/[CH:7]=[C:8](/[CH:9]=[CH:10]/[C:11]1=[C:12]([CH3:13])[CH2:14][CH2:15][CH2:16][C:17]1([CH3:18])[CH3:19])\[CH3:20])/[CH3:21]</AAM>
+      <RANK_REACTANT>{}</RANK_REACTANT>
+      <RANK_PRODUCT>{}</RANK_PRODUCT>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>
